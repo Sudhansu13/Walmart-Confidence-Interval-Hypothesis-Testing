@@ -84,7 +84,7 @@ The analysis can support customer segmentation and data-driven understanding of 
 
 ## 📄 Project Report
 
-[📥 View Walmart Project Report](Walmart_Analysis.pdf)
+[📥 View Walmart Project Report](https://colab.research.google.com/drive/1DufB_Cy5ESQenbwY5S_BGCTI7f_8zewR?usp=drive_link)
 
 ## 👨‍💻 Author
 
